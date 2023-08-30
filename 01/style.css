@@ -19,7 +19,7 @@ body {
 
 @font-face {
     font-family: 'CustomFont';
-    src: url('/one/one.woff2') format('truetype');
+    src: url('https://fastly.jsdelivr.net/gh/hoolog/hoolog/01/one.woff2') format('truetype');
     font-display: swap; 
 }
 
