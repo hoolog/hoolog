@@ -28,17 +28,6 @@ body {
     font-family: 'CustomFont', sans-serif;
 }
 
-.another-font {
-    font-family: 'CustomFont';
-    src: url('https://fastly.jsdelivr.net/gh/hoolog/hoolog/01/one.woff2') format('woff');
-    font-display: swap;
-}
-
-.another-link {
-    text-decoration: none;
-    font-family: 'CustomFont', sans-serif;
-}
-
 a {
   font-size: 100%;
   transition: font-size 0.4s cubic-bezier(0.42, 0, 0.58, 1);
