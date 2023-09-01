@@ -17,17 +17,6 @@ body {
   font-size: 100%;
 }
 
-@font-face {
-    font-family: 'CustomFont';
-    src: url('https://fastly.jsdelivr.net/gh/hoolog/hoolog/01/one.woff2') format('truetype');
-    font-display: swap; 
-}
-
-.one-link {
-    text-decoration: none;
-    font-family: 'CustomFont', sans-serif;
-}
-
 a {
   font-size: 100%;
   transition: font-size 0.4s cubic-bezier(0.42, 0, 0.58, 1);
