@@ -14,7 +14,7 @@ body {
   color: #444;
   /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-  font-size: 100%;
+  font-size: 105%;
 }
 
 a {
@@ -454,7 +454,7 @@ img.alignright {
  *--------------- */
 @media (max-width: 767px) {
   body {
-    font-size: 88.25%;
+    font-size: 91.25%;
   }
   #nav-menu a {
     float: none;
@@ -477,7 +477,7 @@ img.alignright {
 
 @media (min-width: 1200px) {
   .container {
-    max-width: 1050px;
+    max-width: 1080px;
   }
 }
 
